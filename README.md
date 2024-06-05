@@ -58,7 +58,7 @@ Delve into the dynamic world of startup financing with our meticulously designed
 
 - `app.py`: The main Streamlit application file.
 - `data/`: Directory to store the dataset.
-- `notebooks/`: Jupyter notebooks for exploratory data analysis.
+- `Startup-Dashboard analysis.ipynb/`: Jupyter notebooks for exploratory data analysis.
 - `src/`: Source code for data processing and visualization.
 - `requirements.txt`: List of Python packages required for the project.
 
